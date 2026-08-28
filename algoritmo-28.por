@@ -3,7 +3,7 @@ programa {
   inteiro numero
   contador = 100
 
-  enquanto (numero = 0)
+  enquanto (numero = 8)
     
 
   }
